@@ -1,2 +1,2 @@
 # API
-M365 Defender API
+M365 MDATP API
